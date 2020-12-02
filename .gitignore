@@ -1,5 +1,8 @@
 data/lesion/**
 data/masks/**
+data/cortical_lesion/
+data/subcortical_lesion/
+data - flat
 data-ct
 mask_rcnn_coco.h5
 .ipynb_checkpoints
