@@ -1,4 +1,6 @@
-data/**
+data/lesion/**
+data/masks/**
+mask_rcnn_coco.h5
 .ipynb_checkpoints
 # Byte-compiled / optimized / DLL files
 __pycache__/
