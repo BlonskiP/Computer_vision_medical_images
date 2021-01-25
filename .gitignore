@@ -1,4 +1,6 @@
 roi
+logs
+Demencja_zdrowi
 detection
 data/lesion/**
 data/masks/**
