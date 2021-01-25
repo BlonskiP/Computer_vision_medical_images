@@ -1,5 +1,6 @@
 roi
 logs
+BagOfVisualWords.pickle
 Demencja_zdrowi
 detection
 data/lesion/**
