@@ -1,3 +1,5 @@
+roi
+detection
 data/lesion/**
 data/masks/**
 data/cortical_lesion/
